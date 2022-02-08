@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#332973"
+    tools:context=".MovieScreen_fortheMagicans">
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:text="The Magicians"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginRight="15dp"
+        android:text="В сериале рассказывается о судьбе Квентина Колдуотера и его друзей, которые учатся вместе в школе волшебства Брейкбилс. На протяжении 5 сезонов друзья сталкиваются со множеством препятствий, решают квесты, спасают магию и друг друга. Действие первого сезона происходит в школе, во втором сезоне герои открывают для себя волшебный мир Филори и действие частично переносится туда."
+        android:textColor="@color/white" />
+</FrameLayout>
